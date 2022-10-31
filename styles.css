@@ -1,0 +1,28 @@
+.recipes{
+    background-color: rgb(141, 230, 200);
+    color: rgb(56, 61, 60);
+    font-weight: 900;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+.button{
+    color: #ffffff;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+}
+#goback{
+    background: rgb(235, 130, 130);
+}
+
+.title{
+    background-color: bisque;
+    font-style: bolder;
+    text-align: center;
+    font-family: Georgia, serif;
+}
+
+.description{
+background-color: rgb(218, 218, 218);
+font-family: 'Courier New', Courier, monospace;
+}
